@@ -1,4 +1,16 @@
 ### Hi there 👋
+- I'm currently learning ReactJS 🚀
+- If you wanna know about me look my repositories on my Github⚡
+
+[Site de Agroecologia em Rede](https://github.com/ifsp-campinas/sitedeagroecologia-new)| [Vota Cidade](https://github.com/Minhacps/votacidade)
+------------ | -------------
+https://site-de-agroecologia-new.web.app/ | https://vota.org.br
+
+Check out my social medias
+- [Facebook](https://www.facebook.com/joaao.diias/)
+- [Instagram](https://www.instagram.com/diias_joao/)
+- [Twitter](https://twitter.com/diias_jooao)
+- [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-vitor-aleixo-dias-2677bb186/)
 
 <!--
 **jooaodias/jooaodias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
