@@ -1,8 +1,8 @@
 ### Hi there 👋
 - I'm currently learning ReactJS 🚀
-- If you wanna know about me look my repositories on my Github⚡
+- If you wanna know about me look my projects on this profile⚡
 
-[Site de Agroecologia em Rede](https://github.com/ifsp-campinas/sitedeagroecologia-new)| [Vota Cidade](https://github.com/Minhacps/votacidade)
+Site de Agroecologia em Rede| Vota Cidade
 ------------ | -------------
 https://site-de-agroecologia-new.web.app/ | https://vota.org.br
 
