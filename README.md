@@ -7,8 +7,8 @@ Site de Agroecologia em Rede| Vota Cidade
 https://site-de-agroecologia-new.web.app/ | https://vota.org.br
 
 Check out my social medias
-- [Facebook](https://www.facebook.com/joaao.diias/)
-- [Instagram](https://www.instagram.com/diias_joao/)
+<!-- - [Facebook](https://www.facebook.com/joaao.diias/) !-->
+<!-- - [Instagram](https://www.instagram.com/diias_joao/) !-->
 - [Twitter](https://twitter.com/diias_jooao)
 - [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-vitor-aleixo-dias-2677bb186/)
 
