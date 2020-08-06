@@ -2,9 +2,9 @@
 - I'm currently learning ReactJS 🚀
 - If you wanna know about me look my projects on this profile⚡
 
-Site de Agroecologia em Rede| <!--Vota Cidade!-->
+Site de Agroecologia em Rede| Vota Cidade
 ------------ | -------------
-https://site-de-agroecologia-new.web.app/ |<!-- https://vota.org.br !-->
+https://site-de-agroecologia-new.web.app/ |https://vota.org.br
 
 Check out my social medias
 <!-- - [Facebook](https://www.facebook.com/joaao.diias/) !-->
