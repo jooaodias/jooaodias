@@ -8,7 +8,7 @@ https://agroecologiaemrede.neaes.eco.br/ |https://vota.org.br | https://map-aces
 
 Check out my social medias
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/diias_jooao)](https://twitter.com/diias_jooao)
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-vitor-aleixo-dias-2677bb186/)](https://www.linkedin.com/in/jo%C3%A3o-vitor-aleixo-dias-2677bb186)
 
 <!--
