@@ -1,4 +1,10 @@
 ### Hi there 👋
+<div>
+  <a href="https://github.com/rafaballerini">
+  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=jooaodias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<div>
+
+
 - I'm currently learning ReactJS 🚀
 - If you wanna know about me look my projects on this profile⚡
 
