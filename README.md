@@ -4,7 +4,7 @@
 <div>
 
 
-- I'm currently learning ReactJS 🚀
+- I'm Frontend Developer🚀
 - If you wanna know about me look my projects on this profile⚡
 
 Site de Agroecologia em Rede| Vota Cidade | aMap
